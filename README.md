@@ -28,6 +28,12 @@
     - Selecting dates with optional dates.
     - This answers will then create a templated email. Will require the read and write node modules to create a PDF and send it to the email
 
+5. Add resources in the admin tool to show dates and times theyre available
+
+6. Take the Dominic out of the tool
+    - Giving understandable information so the system can handle the requests
+    - Think about the resources that are available and admin allocating them
+
 
 ## Resources
 

@@ -1,0 +1,242 @@
+[{
+    "id": 1,
+    "title": "Hydraulic Hijinks (SM-1)",
+    "description": "Technological problem-solving skills to design, build and test a structure and mechanical system that performs a different types of mechanical systems",
+    "offerings": [{
+        "grade": 5,
+        "topic": "Technological problem-solving skills to design, build and test a structure and mechanical system that performs a different types of mechanical systems",
+        "curriculum": "Understanding Structures and Mechanisms: Forces Acting on Structures and Mechanisms",
+        "connection": "Mechanical Engineering"
+      },
+      {
+        "grade": 7,
+        "topic": "Safety procedures for using tools and handling materials; physical models that investigate the effects of various forces on structures",
+        "curriculum": "Understanding Structures and Mechanisms: Form and Function",
+        "connection": "Mechanical Engineering"
+      },
+      {
+        "grade": 8,
+        "topic": "Technological problem-solving skills to investigate a system that performs a function; relationship between work, force and distance; mechanical advantage",
+        "curriculum": "Understanding Structures and Mechanisms: Systems in Action",
+        "connection": ["Mechanical Engineering"]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Colossal Superstructures (SM-2)",
+    "description": "Students will design, build and test structures that can withstand applied loads.",
+    "offerings": [{
+        "grade": 3,
+        "topic": "Technological problem-solving skills and knowledge to design and build a strong and stable structure that serves a purpose",
+        "curriculum": "Understanding Structures and Mechanisms: Strong and Stable Structures",
+        "connection": "Civil Engineering"
+      },
+      {
+        "grade": 5,
+        "topic": "Factors that impact the strength of a structure and its ability to support and resist loads; materials and construction techniques that add strength and stability to structures; vocabulary, including compression, tension, strength and stability; problemsolving skills in designing, building and testing a strong structure that serves a purpose",
+        "curriculum": "Understanding Structures and Mechanisms: Forces Acting on Structures and Mechanisms",
+        "connection": "Civil Engineering"
+
+      },
+      {
+        "grade": 7,
+        "topic": "Factors that determine the ability of a structure to support a load; problem-solving skills that determine the most ef cent way for a structure to support a given load",
+        "curriculum": "Understanding Structures and Mechanisms: Form and Function",
+        "connection": "Civil Engineering"
+
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Indy 500 (SM-3)",
+    "description": "Students will design, build and test a model racecar",
+    "offerings": [{
+        "grade": 4,
+        "topic": "Investigations into rotary motion in one system or its components and how energy is transferred to another system or component in the same structure",
+        "curriculum": "Understanding Structures and Mechanisms: Pulleys and Gears",
+        "connection": "Mechanical Engineering"
+      },
+      {
+        "grade": 5,
+        "topic": "Technological problem-solving skills to design, build and test a structure; external forces acting on a structure; design, build and test integrating principles of aerodynamics; evolution and change in systems",
+        "curriculum": "Understanding Structures and Mechanisms: Forces Acting on Structures and Mechanisms",
+        "connection": "Mechanical Engineering"
+      },
+      {
+        "grade": 6,
+        "topic": "Applications of the properties of air; different forces (thrust, drag, lift, weight); design, build and test integrating principles of aerodynamics",
+        "curriculum": "Understanding Structures and Mechanisms: Flight",
+        "connection": "Mechanical Engineering"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Forensic Fun (LS-3)",
+    "description": "Students will use knowledge of chemical interactions to solve a mystery.",
+    "offerings": [{
+        "grade": 5,
+        "topic": "Assess the effects of social and environmental factors on human health, and propose ways in which individuals can reduce the harmful effects of these factors",
+        "curriculum": "Understanding Life Systems: Relating Science and Technology to Society and the Environment",
+        "connection": "Chemistry / Chemical Engineering"
+      },
+      {
+        "grade": 6,
+        "topic": "Following established safety procedures for outdoor activities and field work",
+        "curriculum": "Understanding Life Systems: Developing Investigation and Communication Skills",
+        "connection": "Chemistry / Chemical Engineering"
+      },
+      {
+        "grade": 7,
+        "topic": "Human activities and technologies that alter balances and interactions in the environment",
+        "curriculum": "Understanding Life Systems: Interactions in the Environment",
+        "connection": "Chemistry / Chemical Engineering"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Alarm Systems (ME-1)",
+    "description": "Students will create working alarm systems using circuit components.",
+    "offerings": [{
+        "grade": 3,
+        "topic": "Safety procedures during science and technology investigations; effects of increasing or decreasing amounts of force or energy applied to an object",
+        "curriculum": "Understand Energy: Developing Investigation and Communication Skills",
+        "connection": "Electrical Engineering"
+      },
+      {
+        "grade": 4,
+        "topic": "Development of technological problem-solving skills to design, build and test a device that makes use of the properties of light or sound",
+        "curriculum": "Understanding Matter and Energy: Light and Sound",
+        "connection": "Electrical Engineering"
+      },
+      {
+        "grade": 6,
+        "topic": "Development of technological problem-solving skills to design, build and test a device that makes use of the properties of light or sound",
+        "curriculum": "Understanding Matter and Energy: Electricity Electrical Devices",
+        "connection": "Electrical Engineering"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Circut Mazes (ME-2)",
+    "description": "Students will explore the concept of closed circuits as they design and create a circuit maze system.",
+    "offerings": [{
+        "grade": 3,
+        "topic": "Safety procedures during science and technology investigations; effects of increasing or decreasing amount of force or energy applied to an object",
+        "curriculum": "Understanding Matter and Energy: Developing Investigation and Communication Skills",
+        "connection": "Electrical Engineering"
+      },
+      {
+        "grade": 4,
+        "topic": "Technological problem-solving skills to design, build, and test a device that makes use of the properties of light or sound",
+        "curriculum": "Understanding Matter and Energy: Light and Sound",
+        "connection": "Electrical Engineering"
+      },
+      {
+        "grade": 6,
+        "topic": "Designing and building series and parallel circuits, drawing labelled diagrams, identifying the components used in each, and describing the role of each component in a circuit",
+        "curriculum": "Understanding Matter and Energy: Electricity and Electrical Devices",
+        "connection": "Electrical Engineering"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Slime & Polymers (ME-3)",
+    "description": "Students will formulate and synthesize polymer creations.",
+    "offerings": [{
+        "grade": 3,
+        "topic": "The effects of the action of forces in nature on the natural and built environment, and identification of ways in which human activities can reduce or enhance this impact",
+        "curriculum": "Understanding Matter and Energy: Relating Science and Technology to Society and the Environment",
+        "connection": "Chemistry / Chemical Engineering"
+      },
+      {
+        "grade": 5,
+        "topic": "Physical properties of materials and their applications; properties of solids, liquids and gases; physical and chemical changes",
+        "curriculum": "Understanding Matter and Energy: Properties and Changes in Matter",
+        "connection": "Chemistry / Chemical Engineering"
+      },
+      {
+        "grade": 7,
+        "topic": "Properties of pure substances and mixtures; particle theory of matter; experimentation skills to investigate the properties of mixtures and solutions; concentration of solutions in qualitative and quantitative terms",
+        "curriculum": "Understanding Matter and Energy: Pure Substances and Mixtures",
+        "connection": "Chemistry / Chemical Engineering"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Extreme RollerCoasters (SE-1)",
+    "description": "Students will design, build and test model roller-coasters, while applying laws of physics and principles of design.",
+    "offerings": [{
+        "grade": 4,
+        "topic": "Social and environmental costs and bene ts of using objects in the built environment that are made from rocks and minerals",
+        "curriculum": "Understanding Earth and Space Systems: Rocks and Minerals",
+        "connection": "Mechanical Engineering"
+      },
+      {
+        "grade": 5,
+        "topic": "Technological problem-solving skills to design, build and test a device that transforms one type of energy into another; Law of Conservation of Energy",
+        "curriculum": "Understanding Earth and Space Systems: Conservation of Energy and Resources",
+        "connection": "Mechanical Engineering"
+      },
+      {
+        "grade": 7,
+        "topic": "Environmental and economic impacts of using conventional and alternative forms of energy",
+        "curriculum": "Understanding Matter and Energy: Relating Science and Technology to Society and the Environment",
+        "connection": "Mechanical Engineering"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Rocket Science! (SE-2)",
+    "description": "Students will build and test rockets to investigate the principles of aerodynamics.",
+    "offerings": [{
+        "grade": 4,
+        "topic": "Social and environmental costs and benefits of using objects in the built environment that are made from rocks and minerals",
+        "curriculum": "Understanding Earth and Space Systems: Rocks and Minerals",
+        "connection": "Aerospace Engineering"
+      },
+      {
+        "grade": 6,
+        "topic": "Components of the solar system; technological tools and devices needed for space exploration; physics of flight and forces acting on an object in flight",
+        "curriculum": "Understanding Earth and Space Systems: Space",
+        "connection": "Aerospace Engineering"
+      },
+      {
+        "grade": 7,
+        "topic": "Social and environmental bene ts of technologies that reduce heat loss or transfer; environmental and economic impacts of using conventional and alternative forms of energy",
+        "curriculum": "Understanding Earth and Space Systems: Heat in the Environment",
+        "connection": "Aerospace Engineering"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Crazy Catapults (SE-3)",
+    "description": "Students will explore how force and energy affect motion by designing and building catapult mechanisms.",
+    "offerings": [{
+        "grade": 4,
+        "topic": "Social and environmental costs and benefits of using objects in the built environment that are made from rocks and minerals",
+        "curriculum": "Understanding Earth and Space Systems: Rocks and Minerals",
+        "connection": "Mechanical Engineering"
+      },
+      {
+        "grade": 5,
+        "topic": "Technological problem-solving skills to design, build and test a device that transforms one type of energy into another; Law of Conservation of Energy",
+        "curriculum": "Understanding Earth and Space Systems: Conservation of Energy and Resources",
+        "connection": "Mechanical Engineering"
+      },
+      {
+        "grade": 7,
+        "topic": "Environmental and economic impacts of using conventional and alternative forms of energy",
+        "curriculum": "Understanding Earth and Space Systems: Relating Science and Technology to Society and the Environment",
+        "connection": "Mechanical Engineering"
+      }
+    ]
+  }]
